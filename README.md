@@ -1,4 +1,4 @@
-# Learning RNA velocity and generative modelling on pancreas endocrinogenesis
+# Learning RNA velocity and generative modelling on pancreas endocrinogenesis (in progress)
 
 A small learning project on the public scVelo pancreas endocrinogenesis dataset
 (3,696 cells, developing mouse pancreas). I wanted hands-on experience with single-cell
